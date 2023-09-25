@@ -10,8 +10,6 @@ vccin_sfty_dag.csv: Proportion of people who disagree that "vaccines are safe fo
 
 continents2.csv: Dataset of region and subregion label for each country in the world. Source: kaggle.com
 
-## Abstract 
-
 ## Introduction
 Vaccine hesitancy is defined as a "delay in acceptance or refusal of vaccination despite availability of vaccination services" (MacDonald et al., 2015). Generally, vaccine hesitancy is influenced by factors such as perceived risks, accessibility to vaccines, and trust in healthcare workers and politicians. 
 
